@@ -6,7 +6,10 @@ namespace BlackJack
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("BlackJack");
+            Console.WriteLine("Versão 1.0");
+            Console.WriteLine();
+            Console.WriteLine("Autores:");
         }
     }
 }
